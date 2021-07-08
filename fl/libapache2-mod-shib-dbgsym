@@ -1,0 +1,1 @@
+{'Package': 'libapache2-mod-shib-dbgsym', 'Source': 'shibboleth-sp', 'Version': '3.0.4+dfsg1-1+deb10u2', 'Installed-Size': '433', 'Maintainer': 'Debian Shib Team <pkg-shibboleth-devel@lists.alioth.debian.org>', 'Architecture': 'amd64', 'Depends': [['libapache2-mod-shib', '=', '3.0.4+dfsg1-1+deb10u2']], 'Description': 'debug symbols for libapache2-mod-shib'}

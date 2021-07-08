@@ -1,0 +1,1 @@
+{'Package': 'chromium-sandbox-dbgsym', 'Source': 'chromium', 'Version': '90.0.4430.212-1~deb10u1', 'Installed-Size': '31', 'Maintainer': 'Debian Chromium Team <chromium@packages.debian.org>', 'Architecture': 'amd64', 'Depends': [['chromium-sandbox', '=', '90.0.4430.212-1~deb10u1']], 'Description': 'debug symbols for chromium-sandbox'}

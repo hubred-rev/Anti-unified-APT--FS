@@ -1,0 +1,1 @@
+{'Package': 'spamc-dbgsym', 'Source': 'spamassassin', 'Version': '3.4.2-1+deb10u3', 'Installed-Size': '69', 'Maintainer': 'Noah Meyerhans <noahm@debian.org>', 'Architecture': 'amd64', 'Depends': [['spamc', '=', '3.4.2-1+deb10u3']], 'Description': 'debug symbols for spamc'}

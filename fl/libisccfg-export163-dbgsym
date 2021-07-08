@@ -1,0 +1,1 @@
+{'Package': 'libisccfg-export163-dbgsym', 'Source': 'bind9', 'Version': '1:9.11.5.P4+dfsg-5.1+deb10u5', 'Installed-Size': '134', 'Maintainer': 'Debian DNS Team <team+dns@tracker.debian.org>', 'Architecture': 'amd64', 'Depends': [['libisccfg-export163', '=', '1:9.11.5.P4+dfsg-5.1+deb10u5']], 'Description': 'debug symbols for libisccfg-export163'}

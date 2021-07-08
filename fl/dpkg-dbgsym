@@ -1,0 +1,1 @@
+{'Package': 'dpkg-dbgsym', 'Source': 'dpkg', 'Version': '1.19.7pureos1', 'Installed-Size': '1727', 'Maintainer': 'PureOS Maintainers <pureos-project@lists.puri.sm>', 'Original-Maintainer': 'Dpkg Developers <debian-dpkg@lists.debian.org>', 'Architecture': 'amd64', 'Depends': [['dpkg', '=', '1.19.7pureos1']], 'Description': 'debug symbols for dpkg'}

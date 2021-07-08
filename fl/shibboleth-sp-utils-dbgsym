@@ -1,0 +1,1 @@
+{'Package': 'shibboleth-sp-utils-dbgsym', 'Source': 'shibboleth-sp', 'Version': '3.0.4+dfsg1-1+deb10u2', 'Installed-Size': '482', 'Maintainer': 'Debian Shib Team <pkg-shibboleth-devel@lists.alioth.debian.org>', 'Architecture': 'amd64', 'Depends': [['shibboleth-sp-utils', '=', '3.0.4+dfsg1-1+deb10u2']], 'Description': 'debug symbols for shibboleth-sp-utils'}

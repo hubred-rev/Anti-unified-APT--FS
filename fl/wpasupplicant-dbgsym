@@ -1,0 +1,1 @@
+{'Package': 'wpasupplicant-dbgsym', 'Source': 'wpa', 'Version': '2:2.7+git20190128+0c1e29f-6+deb10u3', 'Installed-Size': '4002', 'Maintainer': 'Debian wpasupplicant Maintainers <wpa@packages.debian.org>', 'Architecture': 'amd64', 'Depends': [['wpasupplicant', '=', '2:2.7+git20190128+0c1e29f-6+deb10u3']], 'Description': 'debug symbols for wpasupplicant'}

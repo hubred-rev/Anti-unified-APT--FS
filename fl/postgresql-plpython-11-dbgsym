@@ -1,0 +1,1 @@
+{'Package': 'postgresql-plpython-11-dbgsym', 'Source': 'postgresql-11', 'Version': '11.12-0+deb10u1', 'Installed-Size': '358', 'Maintainer': 'Debian PostgreSQL Maintainers <team+postgresql@tracker.debian.org>', 'Architecture': 'amd64', 'Depends': [['postgresql-plpython-11', '=', '11.12-0+deb10u1']], 'Description': 'debug symbols for postgresql-plpython-11'}

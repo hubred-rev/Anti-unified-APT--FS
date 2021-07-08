@@ -1,0 +1,1 @@
+{'Package': 'php7.3-bcmath-dbgsym', 'Source': 'php7.3', 'Version': '7.3.29-1~deb10u1', 'Installed-Size': '217', 'Maintainer': 'Debian PHP Maintainers <team+pkg-php@tracker.debian.org>', 'Architecture': 'amd64', 'Replaces': 'php7.3-dbg', 'Depends': [['php7.3-bcmath', '=', '7.3.29-1~deb10u1']], 'Breaks': 'php7.3-dbg', 'Description': 'debug symbols for php7.3-bcmath'}

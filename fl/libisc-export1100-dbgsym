@@ -1,0 +1,1 @@
+{'Package': 'libisc-export1100-dbgsym', 'Source': 'bind9', 'Version': '1:9.11.5.P4+dfsg-5.1+deb10u5', 'Installed-Size': '513', 'Maintainer': 'Debian DNS Team <team+dns@tracker.debian.org>', 'Architecture': 'amd64', 'Depends': [['libisc-export1100', '=', '1:9.11.5.P4+dfsg-5.1+deb10u5']], 'Description': 'debug symbols for libisc-export1100', 'Multi-Arch': 'same'}

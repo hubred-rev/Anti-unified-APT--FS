@@ -1,0 +1,1 @@
+{'Package': 'postgresql-plperl-11-dbgsym', 'Source': 'postgresql-11', 'Version': '11.12-0+deb10u1', 'Installed-Size': '280', 'Maintainer': 'Debian PostgreSQL Maintainers <team+postgresql@tracker.debian.org>', 'Architecture': 'amd64', 'Depends': [['postgresql-plperl-11', '=', '11.12-0+deb10u1']], 'Description': 'debug symbols for postgresql-plperl-11'}

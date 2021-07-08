@@ -1,0 +1,1 @@
+{'Package': 'xserver-xephyr-dbgsym', 'Source': 'xorg-server', 'Version': '2:1.20.4-1+deb10u3', 'Installed-Size': '8372', 'Maintainer': 'Debian X Strike Force <debian-x@lists.debian.org>', 'Architecture': 'amd64', 'Depends': [['xserver-xephyr', '=', '2:1.20.4-1+deb10u3']], 'Description': 'debug symbols for xserver-xephyr'}

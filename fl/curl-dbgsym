@@ -1,0 +1,1 @@
+{'Package': 'curl-dbgsym', 'Source': 'curl', 'Version': '7.64.0-4+deb10u2', 'Installed-Size': '140', 'Maintainer': 'Alessandro Ghedini <ghedo@debian.org>', 'Architecture': 'amd64', 'Depends': [['curl', '=', '7.64.0-4+deb10u2']], 'Description': 'debug symbols for curl'}

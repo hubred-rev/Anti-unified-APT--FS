@@ -1,0 +1,1 @@
+{'Package': 'prosody-dbgsym', 'Source': 'prosody', 'Version': '0.11.2-1+deb10u2', 'Installed-Size': '139', 'Maintainer': 'Debian XMPP Maintainers <pkg-xmpp-devel@alioth-lists.debian.net>', 'Architecture': 'amd64', 'Depends': [['prosody', '=', '0.11.2-1+deb10u2']], 'Description': 'debug symbols for prosody'}

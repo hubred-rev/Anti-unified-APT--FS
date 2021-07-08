@@ -1,0 +1,1 @@
+{'Package': 'xdmx-tools-dbgsym', 'Source': 'xorg-server', 'Version': '2:1.20.4-1+deb10u3', 'Installed-Size': '333', 'Maintainer': 'Debian X Strike Force <debian-x@lists.debian.org>', 'Architecture': 'amd64', 'Depends': [['xdmx-tools', '=', '2:1.20.4-1+deb10u3']], 'Description': 'debug symbols for xdmx-tools'}

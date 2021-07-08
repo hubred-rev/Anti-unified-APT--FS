@@ -1,0 +1,1 @@
+{'Package': 'libnginx-mod-stream-dbgsym', 'Source': 'nginx', 'Version': '1.14.2-2+deb10u4', 'Installed-Size': '353', 'Maintainer': 'Debian Nginx Maintainers <pkg-nginx-maintainers@alioth-lists.debian.net>', 'Architecture': 'amd64', 'Depends': [['libnginx-mod-stream', '=', '1.14.2-2+deb10u4']], 'Description': 'debug symbols for libnginx-mod-stream'}

@@ -1,0 +1,1 @@
+{'Package': 'libisccc161-dbgsym', 'Source': 'bind9', 'Version': '1:9.11.5.P4+dfsg-5.1+deb10u5', 'Installed-Size': '60', 'Maintainer': 'Debian DNS Team <team+dns@tracker.debian.org>', 'Architecture': 'amd64', 'Depends': [['libisccc161', '=', '1:9.11.5.P4+dfsg-5.1+deb10u5']], 'Description': 'debug symbols for libisccc161', 'Multi-Arch': 'same'}

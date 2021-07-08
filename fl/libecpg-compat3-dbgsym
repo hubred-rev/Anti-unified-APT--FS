@@ -1,0 +1,1 @@
+{'Package': 'libecpg-compat3-dbgsym', 'Source': 'postgresql-11', 'Version': '11.12-0+deb10u1', 'Installed-Size': '35', 'Maintainer': 'Debian PostgreSQL Maintainers <team+postgresql@tracker.debian.org>', 'Architecture': 'amd64', 'Depends': [['libecpg-compat3', '=', '11.12-0+deb10u1']], 'Description': 'debug symbols for libecpg-compat3', 'Multi-Arch': 'same'}

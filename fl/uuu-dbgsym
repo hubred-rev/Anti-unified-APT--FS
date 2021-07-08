@@ -1,0 +1,1 @@
+{'Package': 'uuu-dbgsym', 'Source': 'mfgtools', 'Version': '1.2.91+0git6b465-0pureos+librem5.2', 'Installed-Size': '851', 'Maintainer': 'Guido Günther <agx@sigxcpu.org>', 'Architecture': 'amd64', 'Depends': [['uuu', '=', '1.2.91+0git6b465-0pureos+librem5.2']], 'Description': 'debug symbols for uuu'}

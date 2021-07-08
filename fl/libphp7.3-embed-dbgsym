@@ -1,0 +1,1 @@
+{'Package': 'libphp7.3-embed-dbgsym', 'Source': 'php7.3', 'Version': '7.3.29-1~deb10u1', 'Installed-Size': '7952', 'Maintainer': 'Debian PHP Maintainers <team+pkg-php@tracker.debian.org>', 'Architecture': 'amd64', 'Replaces': 'php7.3-dbg', 'Depends': [['libphp7.3-embed', '=', '7.3.29-1~deb10u1']], 'Breaks': 'php7.3-dbg', 'Description': 'debug symbols for libphp7.3-embed'}
