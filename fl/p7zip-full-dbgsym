@@ -1,0 +1,1 @@
+{'Package': 'p7zip-full-dbgsym', 'Source': 'p7zip', 'Version': '16.02+dfsg-6pureos1', 'Installed-Size': '11639', 'Maintainer': 'Purism developers <dev@puri.sm>', 'Original-Maintainer': 'Robert Luberda <robert@debian.org>', 'Architecture': 'amd64', 'Depends': [['p7zip-full', '=', '16.02+dfsg-6pureos1']], 'Description': 'debug symbols for p7zip-full'}

@@ -1,0 +1,1 @@
+{'Package': 'psensor-server-dbgsym', 'Source': 'psensor', 'Version': '1.2.0-1pureos1', 'Installed-Size': '79', 'Maintainer': 'Purism developers <dev@puri.sm>', 'Original-Maintainer': 'Jean-Philippe Orsini <jeanfi@gmail.com>', 'Architecture': 'amd64', 'Depends': [['psensor-server', '=', '1.2.0-1pureos1']], 'Description': 'debug symbols for psensor-server'}

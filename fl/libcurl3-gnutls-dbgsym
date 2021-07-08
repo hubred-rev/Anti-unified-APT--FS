@@ -1,0 +1,1 @@
+{'Package': 'libcurl3-gnutls-dbgsym', 'Source': 'curl', 'Version': '7.64.0-4+deb10u2', 'Installed-Size': '784', 'Maintainer': 'Alessandro Ghedini <ghedo@debian.org>', 'Architecture': 'amd64', 'Depends': [['libcurl3-gnutls', '=', '7.64.0-4+deb10u2']], 'Description': 'debug symbols for libcurl3-gnutls', 'Multi-Arch': 'same'}

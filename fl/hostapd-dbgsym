@@ -1,0 +1,1 @@
+{'Package': 'hostapd-dbgsym', 'Source': 'wpa', 'Version': '2:2.7+git20190128+0c1e29f-6+deb10u3', 'Installed-Size': '2525', 'Maintainer': 'Debian wpasupplicant Maintainers <wpa@packages.debian.org>', 'Architecture': 'amd64', 'Depends': [['hostapd', '=', '2:2.7+git20190128+0c1e29f-6+deb10u3']], 'Description': 'debug symbols for hostapd'}

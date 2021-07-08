@@ -1,0 +1,1 @@
+{'Package': 'libnginx-mod-http-echo-dbgsym', 'Source': 'nginx', 'Version': '1.14.2-2+deb10u4', 'Installed-Size': '285', 'Maintainer': 'Debian Nginx Maintainers <pkg-nginx-maintainers@alioth-lists.debian.net>', 'Architecture': 'amd64', 'Depends': [['libnginx-mod-http-echo', '=', '1.14.2-2+deb10u4']], 'Description': 'debug symbols for libnginx-mod-http-echo'}

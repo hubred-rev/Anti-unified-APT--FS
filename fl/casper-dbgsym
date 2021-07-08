@@ -1,0 +1,1 @@
+{'Package': 'casper-dbgsym', 'Source': 'casper', 'Version': '1.395pureos2', 'Installed-Size': '29', 'Maintainer': 'PureOS Maintainers <pureos-project@lists.puri.sm>', 'Original-Maintainer': 'Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>', 'Architecture': 'amd64', 'Depends': [['casper', '=', '1.395pureos2']], 'Description': 'debug symbols for casper'}

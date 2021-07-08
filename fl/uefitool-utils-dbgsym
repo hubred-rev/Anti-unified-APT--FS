@@ -1,0 +1,1 @@
+{'Package': 'uefitool-utils-dbgsym', 'Source': 'uefitool', 'Version': '0~A40-0pureos1', 'Installed-Size': '3565', 'Maintainer': 'Matthias Klumpp <matthias.klumpp@puri.sm>', 'Architecture': 'amd64', 'Depends': [['uefitool-utils', '=', '0~A40-0pureos1']], 'Description': 'Debug symbols for uefitool-utils', 'Homepage': 'https://github.com/corna/me_cleaner'}

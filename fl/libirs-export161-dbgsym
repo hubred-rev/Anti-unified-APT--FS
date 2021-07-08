@@ -1,0 +1,1 @@
+{'Package': 'libirs-export161-dbgsym', 'Source': 'bind9', 'Version': '1:9.11.5.P4+dfsg-5.1+deb10u5', 'Installed-Size': '76', 'Maintainer': 'Debian DNS Team <team+dns@tracker.debian.org>', 'Architecture': 'amd64', 'Depends': [['libirs-export161', '=', '1:9.11.5.P4+dfsg-5.1+deb10u5']], 'Description': 'debug symbols for libirs-export161'}

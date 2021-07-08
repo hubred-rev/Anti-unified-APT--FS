@@ -1,0 +1,1 @@
+{'Package': 'libhandy-0.0-0-dbgsym', 'Source': 'libhandy', 'Version': '0.0.12-1pureos1', 'Installed-Size': '491', 'Maintainer': 'Guido Günther <agx@sigxcpu.org>', 'Architecture': 'amd64', 'Depends': [['libhandy-0.0-0', '=', '0.0.12-1pureos1']], 'Description': 'debug symbols for libhandy-0.0-0', 'Multi-Arch': 'same'}

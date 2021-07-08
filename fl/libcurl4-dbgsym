@@ -1,0 +1,1 @@
+{'Package': 'libcurl4-dbgsym', 'Source': 'curl', 'Version': '7.64.0-4+deb10u2', 'Installed-Size': '806', 'Maintainer': 'Alessandro Ghedini <ghedo@debian.org>', 'Architecture': 'amd64', 'Depends': [['libcurl4', '=', '7.64.0-4+deb10u2']], 'Description': 'debug symbols for libcurl4', 'Multi-Arch': 'same'}

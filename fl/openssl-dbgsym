@@ -1,0 +1,1 @@
+{'Package': 'openssl-dbgsym', 'Source': 'openssl', 'Version': '1.1.1d-0+deb10u6', 'Installed-Size': '743', 'Maintainer': 'Debian OpenSSL Team <pkg-openssl-devel@lists.alioth.debian.org>', 'Architecture': 'amd64', 'Depends': [['openssl', '=', '1.1.1d-0+deb10u6']], 'Description': 'debug symbols for openssl'}

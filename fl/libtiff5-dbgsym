@@ -1,0 +1,1 @@
+{'Package': 'libtiff5-dbgsym', 'Source': 'tiff', 'Version': '4.1.0+git191117-2~deb10u2', 'Installed-Size': '546', 'Maintainer': 'Laszlo Boszormenyi (GCS) <gcs@debian.org>', 'Architecture': 'amd64', 'Depends': [['libtiff5', '=', '4.1.0+git191117-2~deb10u2']], 'Description': 'debug symbols for libtiff5', 'Multi-Arch': 'same'}

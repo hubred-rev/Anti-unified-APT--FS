@@ -1,0 +1,1 @@
+{'Package': 'webkit2gtk-driver-dbgsym', 'Source': 'webkit2gtk', 'Version': '2.32.1-1~deb10u1', 'Installed-Size': '1568', 'Maintainer': 'Debian WebKit Maintainers <pkg-webkit-maintainers@lists.alioth.debian.org>', 'Architecture': 'amd64', 'Depends': [['webkit2gtk-driver', '=', '2.32.1-1~deb10u1']], 'Description': 'debug symbols for webkit2gtk-driver'}

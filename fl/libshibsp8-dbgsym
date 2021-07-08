@@ -1,0 +1,1 @@
+{'Package': 'libshibsp8-dbgsym', 'Source': 'shibboleth-sp', 'Version': '3.0.4+dfsg1-1+deb10u2', 'Installed-Size': '18525', 'Maintainer': 'Debian Shib Team <pkg-shibboleth-devel@lists.alioth.debian.org>', 'Architecture': 'amd64', 'Depends': [['libshibsp8', '=', '3.0.4+dfsg1-1+deb10u2']], 'Description': 'debug symbols for libshibsp8', 'Multi-Arch': 'same'}

@@ -1,0 +1,1 @@
+{'Package': 'squid-dbgsym', 'Source': 'squid', 'Version': '4.6-1+deb10u6', 'Installed-Size': '32898', 'Maintainer': 'Luigi Gangitano <luigi@debian.org>', 'Architecture': 'amd64', 'Depends': [['squid', '=', '4.6-1+deb10u6']], 'Description': 'debug symbols for squid'}

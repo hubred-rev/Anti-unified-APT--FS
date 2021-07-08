@@ -1,0 +1,1 @@
+{'Package': 'libdns-export1104-dbgsym', 'Source': 'bind9', 'Version': '1:9.11.5.P4+dfsg-5.1+deb10u5', 'Installed-Size': '2778', 'Maintainer': 'Debian DNS Team <team+dns@tracker.debian.org>', 'Architecture': 'amd64', 'Depends': [['libdns-export1104', '=', '1:9.11.5.P4+dfsg-5.1+deb10u5']], 'Description': 'debug symbols for libdns-export1104'}
