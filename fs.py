@@ -1,5 +1,6 @@
 import sys,os,time,installed,all_debs
 repo='/media/a/3227F05080D331B7/AMirror/mirror/repo.pureos.net/pureos'
+if not os.path.exists('fd'):import fsup
 try:
     print(sys.argv)
     a=[sys.argv[1],sys.argv[2]]
