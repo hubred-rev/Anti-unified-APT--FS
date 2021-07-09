@@ -6,6 +6,6 @@ for c in a[1:]:
 t,n=[],0
 for d in b.keys():
     t.append(d)
-print(t)
+print('listed debs.')
 f=open('list_dict_installed.txt','w+');f.write(repr(b));f.close()
 f=open('list_installed.txt','w+');f.write(repr(t));f.close()

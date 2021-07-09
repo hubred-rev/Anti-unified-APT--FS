@@ -1,4 +1,4 @@
-import sys,os
+import sys,os,time,installed,all_debs
 repo='/media/a/3227F05080D331B7/AMirror/mirror/repo.pureos.net/pureos'
 try:
     print(sys.argv)
@@ -25,10 +25,11 @@ if a[0]=='install':
             print(i)
         else:print('No Software.')
     else:print('Software %s was install.'%a[1])
-elif a[1]=='remove':
+elif a[0]=='remove':
     if a[1]in hp:
         if a[1]in ap:
             print('Start remove software %s.'%a[1])
+            os.system('sudo apt remove %s'%a[1])
         else:print('No Software.')
     else:print('Software %s was remove.'%a[1])
 else:print('no operations.')
